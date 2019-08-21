@@ -1,0 +1,11 @@
+{
+"target_widths" : {
+        "50_ohms": {
+                "F.Cu" : 5.1,
+                "B.Cu" : 5.1, 
+                "In2.Cu" : 4.7,
+                "In5.Cu" : 4.7, 
+                "Default" : -1
+            }
+    }
+}
