@@ -30,6 +30,8 @@ The Kicad plugins in this directory can be run in two ways:
     
     - Run the script
          > python_k plugin_drill_map/drill_map.py -h
+         
         or
+        
          > python_k plugin_drill_map/drill_map.py board_file.kicad_pcb
 
